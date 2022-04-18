@@ -24,7 +24,7 @@ Linux soit avec vous
 OgmaDragno
 
 Liste des composant Possiblement utilisé
--STC3100 Moniteur de batterie i²c https://www.farnell.com/datasheets/1690441.pdf
+-STC3100 Moniteur de batterie i²c https://www.farnell.com/datasheets/1690441.pdf (Trouver un autre circuit car celui ci a une adresse unique)
 -AP9101C Protecteur de batterie   https://4donline.ihs.com/images/VipMasterIC/IC/DIOD/DIOD-S-A0007229744/DIOD-S-A0007229744-1.pdf?hkey=6D3A4C79FDBF58556ACFDE234799DDF0
 
 ![Schema simplifié](https://user-images.githubusercontent.com/80761004/162025851-89bb9339-a26e-488d-9d7f-797600614c27.jpg)
