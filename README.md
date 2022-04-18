@@ -26,6 +26,7 @@ OgmaDragno
 Liste des composant Possiblement utilisé
 -STC3100 Moniteur de batterie i²c https://www.farnell.com/datasheets/1690441.pdf (Trouver un autre circuit car celui ci a une adresse unique)
 -AP9101C Protecteur de batterie   https://4donline.ihs.com/images/VipMasterIC/IC/DIOD/DIOD-S-A0007229744/DIOD-S-A0007229744-1.pdf?hkey=6D3A4C79FDBF58556ACFDE234799DDF0
+-Pour l instant je n ai pas trouver les switch 2²c donc j opte pour un expensseur I/O i²c couplé a des mosfet
 
 ![Schema simplifié](https://user-images.githubusercontent.com/80761004/162025851-89bb9339-a26e-488d-9d7f-797600614c27.jpg)
 ![Schema simplifié_P2](https://user-images.githubusercontent.com/80761004/162025866-c2effa08-0e3d-4671-84cc-094f17a46043.jpg)
