@@ -35,7 +35,7 @@ a l initialisation elle verifiron si elle sont brancher en out.ainsi la derniere
 
 Liste des composant Possiblement utilisé
 -STC3100 Moniteur de batterie i²c 
-https://www.farnell.com/datasheets/1690441.pdf (Trouver un autre circuit car celui ci a une adresse unique)
+https://www.farnell.com/datasheets/1690441.pdf (Il semble s auto atribuer une adresse lors de la mise en tension c est parfait couplé avec un circuit de protection de batterie)
 -bq27742-g1 Interessant car integre une gestion de charge mais egalement en adresse unique
 https://www.ti.com/lit/ds/symlink/bq27742-g1.pdf?HQS=dis-mous-null-mousermode-dsf-pf-null-wwe&ts=1650902664515&ref_url=https%253A%252F%252Fbr.mouser.com%252F
 -LTC1325 Possible utilisation mais demande de changer l architecture de la batterie   CELL(s)->Serial->Atiny->I²C
